@@ -1,12 +1,6 @@
 # 🏎️ Formula 1 Data Engineering Pipeline — Azure Databricks
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity%20Catalog-5C2D91?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+
 
 <p align="center">
   A production-grade, end-to-end Data Engineering pipeline built on <strong>Azure Databricks</strong> using the <strong>Medallion Architecture</strong> — ingesting raw Formula 1 datasets, transforming them through structured layers, and producing analytics-ready Gold tables for business intelligence.
